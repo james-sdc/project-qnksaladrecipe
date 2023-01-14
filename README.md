@@ -1,1 +1,1 @@
-# project-qnksaladrecipe
+# Project Quinoa and Kale Salad Recipe
